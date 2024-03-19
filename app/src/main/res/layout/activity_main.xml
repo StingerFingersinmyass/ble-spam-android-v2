@@ -281,12 +281,17 @@
                     android:maxWidth="260dp"
                     android:textAlignment="textEnd"
                     android:textSize="12sp"
-                    android:text="@string/thanks_to_willy_jl_spooks4576_and_ecto_1a" />
+                    android:text="@string/thanks_to_willy_jl_spooks4576_and_ecto_1a_simondankelmann_and_tutozz" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="12sp"
                     android:text="@string/dev_by_tutozz"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:text="@string/Updated_by_blyadinanoname"/>
             </LinearLayout>
 
         </LinearLayout>
