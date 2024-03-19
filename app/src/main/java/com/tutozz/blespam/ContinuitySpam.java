@@ -54,7 +54,11 @@ public class ContinuitySpam implements Spammer{
                         new ContinuityDevice("0x01", "Setup New AppleTV", ContinuityDevice.type.ACTION),
                         new ContinuityDevice("0x06", "Pair AppleTV", ContinuityDevice.type.ACTION),
                         new ContinuityDevice("0x0D", "HomeKit AppleTV Setup", ContinuityDevice.type.ACTION),
-                        new ContinuityDevice("0x2B", "AppleID for AppleTV?", ContinuityDevice.type.ACTION)
+                        new ContinuityDevice("0x2B", "AppleID for AppleTV?", ContinuityDevice.type.ACTION),
+                        new ContinuityDevice("0x05", "Apple Watch", ContinuityDevice.type.ACTION),
+                        new ContinuityDevice("0x24", "Apple Vision Pro", ContinuityDevice.type.ACTION),
+                        new ContinuityDevice("0x2F", "Connect to other Device", ContinuityDevice.type.ACTION),
+                        new ContinuityDevice("0x21", "Software Update", ContinuityDevice.type.ACTION)
                 };
                 break;
         }
