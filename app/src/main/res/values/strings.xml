@@ -39,6 +39,7 @@
         @ECTO-1A, @simondankelmann and @tutozz</string>
     <string name="dev_by_tutozz">Dev by @tutozz</string>
     <string name="Updated_by_blyadinanoname">Updated by blyadinanoname</string>
+    <string name="Semi_patched_sign">⚠️- Semi-patched</string>
     <string name="todo">TODO</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
