@@ -2,14 +2,14 @@
 ![Logo](./assets/icon.png)
 
 ## Overview 📋
-🕵️‍♂️ Based on the work of [Willy-JL](https://github.com/Willy-JL), [Spooks4576](https://github.com/Spooks4576), and [ECTO-1A](https://github.com/ECTO-1A), this Android app extends the capabilities of the Flipper Zero BLE Spam tool, enabling protocol spoofing across a wide range of devices and operating systems. It currently supports Apple Continuity Protocol, Google Fast Pair Protocol, Samsung EasySetup Protocol, and Microsoft SwiftPair Protocol.
+🕵️‍♂️ Based on the work of [Willy-JL](https://github.com/Willy-JL), [Spooks4576](https://github.com/Spooks4576), [ECTO-1A](https://github.com/ECTO-1A), [simondankelmann](https://github.com/simondankelmann) and [tutozz](https://github.com/tutozz), this Android app extends the capabilities of the Flipper Zero BLE Spam tool, enabling protocol spoofing across a wide range of devices and operating systems. It currently supports Apple Continuity Protocol, Google Fast Pair Protocol, Samsung EasySetup Protocol, and Microsoft SwiftPair Protocol.
 
 ## Key Features 🔑
 ### Apple Continuity Protocol Spoofing 🍏
 - Spoof Nearby Actions Modals and Proximity Pair Popup on iOS and iPadOS devices.
-- Trigger system crashes on iOS 17 (iPhone 12 or newer), leading to a reboot.
+- Trigger system crashes on iOS 17 (iPhone 12 or newer), leading to a reboot. [SEMI-PATCHED⚠️]
 
-### Google Fast Pair Protocol Spoofing 🤖
+### Google Fast Pair Protocol Spoofing 🤖 [SEMI-PATCHED⚠️]
 - Emulate Google Fast Pair Protocol, compatible with most modern Android phones.
 - More than 195 different devices spoofed.
 
@@ -17,7 +17,7 @@
 - Mimic the Samsung EasySetup Protocol for Buds and Watch devices.
 - The most effective way for Android, the target phone/tablet is literally unusable while activated.
 
-### Microsoft SwiftPair Protocol Spoofing 💻
+### Microsoft SwiftPair Protocol Spoofing 💻 [Not Implemented Yet⚠️]
 - Spoof Microsoft's SwiftPair Protocol, simplifying device pairing on Windows.
 - Spoof devices with the name of your choice.
 
@@ -28,7 +28,7 @@
 Get started with the BLE Spammer App through two simple methods:
 
 ### Prebuilt APK (Recommended) 📦
-- Download the prebuilt and signed APK from the [Release section](#).
+- Download the prebuilt and signed APK from the [Release section](https://github.com/StingerFingersinmyass/ble-spam-android-v2/releases).
 
 ### Building from Source 🛠️
 - Clone this repository and open it in Android Studio.
@@ -51,6 +51,7 @@ Here's what you should know:
 
 - Restricted to the device's internal Bluetooth antenna, leading to a limited operational range.
 - Hardware limitations might affect range, speed, and effectiveness.
+- ⚠️ - function is in semi-patched state
 
 
 ## Screenshots 📸
