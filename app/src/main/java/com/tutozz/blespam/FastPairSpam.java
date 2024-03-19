@@ -201,6 +201,12 @@ public class FastPairSpam implements Spammer {
                 new FastPairDevice("0x0703F0", "LG HBS-1120"),
                 new FastPairDevice("0x0803F0", "LG HBS-1125"),
                 new FastPairDevice("0x0903F0", "LG HBS-2000"),
+                new FastPairDevice("0xDF01E3", "Sync"),
+                new FastPairDevice("0xCC93A5", "Sync"),
+                new FastPairDevice("0x9DB896", "Your BMW"),
+                new FastPairDevice("0x9B9872", "Hyundai"),
+                new FastPairDevice("0x989D0A", "Set up your new Pixel 2"),
+                new FastPairDevice("0xE64CC6", "Set up your new Pixel 3 XL"),
                 // Custom debug popups
                 new FastPairDevice("0xD99CA1", "Flipper Zero"),
                 new FastPairDevice("0x77FF67", "Free Robux"),
