@@ -275,13 +275,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
+
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_width="345dp"
                     android:layout_height="wrap_content"
                     android:maxWidth="260dp"
+                    android:text="@string/thanks_to_willy_jl_spooks4576_and_ecto_1a_simondankelmann_and_tutozz"
                     android:textAlignment="textEnd"
-                    android:textSize="12sp"
-                    android:text="@string/thanks_to_willy_jl_spooks4576_and_ecto_1a_simondankelmann_and_tutozz" />
+                    android:textSize="12sp" />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -292,8 +293,9 @@
                     android:layout_height="wrap_content"
                     android:textSize="12sp"
                     android:text="@string/Updated_by_blyadinanoname"/>
+
                 <TextView
-                    android:layout_width="104dp"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/Semi_patched_sign"
                     android:textSize="12sp" />

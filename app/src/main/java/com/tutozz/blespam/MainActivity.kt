@@ -74,9 +74,7 @@ class MainActivity : ComponentActivity() {
             // Samsung EasyPair Watch
             onClickSpamButton(EasySetupSpam(EasySetupDevice.type.WATCH), binding.samsungEasyPairWatchButton, binding.samsungEasyPairWatchCircle)
             // Windows SwiftPair
-            binding.windowsSwiftPairButton.setOnClickListener {
-                Toast.makeText(this, "Not Implemented yet", Toast.LENGTH_SHORT).show()
-            }
+            onClickSpamButton(SwiftPairSpam(), binding.windowsSwiftPairButton, binding.windowsSwiftPairCircle)
 
             // Delay Buttons onClick
             binding.minusDelayButton.setOnClickListener {
