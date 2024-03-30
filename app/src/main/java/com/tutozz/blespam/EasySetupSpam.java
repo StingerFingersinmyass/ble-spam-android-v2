@@ -67,13 +67,15 @@ public class EasySetupSpam implements Spammer {
                         new EasySetupDevice("0x16", "Gray Watch5 Pro 45mm", EasySetupDevice.type.WATCH),
                         new EasySetupDevice("0x17", "White Watch5 44mm", EasySetupDevice.type.WATCH),
                         new EasySetupDevice("0x18", "White & Black Watch5", EasySetupDevice.type.WATCH),
+                        new EasySetupDevice("0xE4", "Black Watch5 Golf Edition", EasySetupDevice.type.WATCH),
+                        new EasySetupDevice("0xE5", "White Watch5 Gold Edition", EasySetupDevice.type.WATCH),
                         new EasySetupDevice("0x1B", "Black Watch6 Pink 40mm", EasySetupDevice.type.WATCH),
                         new EasySetupDevice("0x1C", "Gold Watch6 Gold 40mm", EasySetupDevice.type.WATCH),
                         new EasySetupDevice("0x1D", "Silver Watch6 Cyan 44mm", EasySetupDevice.type.WATCH),
                         new EasySetupDevice("0x1E", "Black Watch6 Classic 43m", EasySetupDevice.type.WATCH),
                         new EasySetupDevice("0x20", "Green Watch6 Classic 43m", EasySetupDevice.type.WATCH),
-                        new EasySetupDevice("0xEC", "Black Watch6 Golf Edition", EasySetupDevice.type.WATCH),
-                        new EasySetupDevice("0xEF", "Black Watch6 TB Edition", EasySetupDevice.type.WATCH)
+                        new EasySetupDevice("0xEC", "Black Watch6 Golf Edition", EasySetupDevice.type.WATCH)
+
                 };
                 break;
         }
