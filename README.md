@@ -20,6 +20,7 @@
 ### Microsoft SwiftPair Protocol Spoofing 💻 [Not Implemented Yet⚠️]
 - Spoof Microsoft's SwiftPair Protocol, simplifying device pairing on Windows.
 - Spoof devices with the name of your choice.
+- P.S. Unfortunately, I don't know how to properly implement SwiftPairSpam function into an application. I would be glad to have your help or even advice.
 
 ## Requirements 📦
 - Android 8.0 (API level 26) or later
