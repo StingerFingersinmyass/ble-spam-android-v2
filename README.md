@@ -7,7 +7,7 @@
 ## Key Features 🔑
 ### Apple Continuity Protocol Spoofing 🍏
 - Spoof Nearby Actions Modals and Proximity Pair Popup on iOS and iPadOS devices.
-- Trigger system crashes on iOS 17 (iPhone 12 or newer), leading to a reboot. [SEMI-PATCHED⚠️]
+- Trigger system crashes on iOS 17 (iPhone 12 or newer), leading to a reboot. [PATCHED⚠️(Working as Default Spam from now)]
 
 ### Google Fast Pair Protocol Spoofing 🤖 [SEMI-PATCHED⚠️]
 - Emulate Google Fast Pair Protocol, compatible with most modern Android phones.
